@@ -1,0 +1,2 @@
+# qsafe-privacy
+privacy.html
